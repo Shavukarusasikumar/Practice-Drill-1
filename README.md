@@ -26,7 +26,7 @@ mv hello/one hello/uno
 # Step 8: To move a file to a subdirectory use mv cmd line
 mv hello/uno/a.txt hello/uno/two
 
-# To see the file structure install tree
+# To see the file structure install tree and use tree cmd line
 tree hello/
 ```
 
