@@ -1,6 +1,6 @@
 # Practice Drill 1
 
-```bash
+
 # Step 1: First create the parent directory and sub childs using below commands
 mkdir -p hello/five/six/seven
 mkdir -p hello/one/two/three/four
